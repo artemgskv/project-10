@@ -1,4 +1,4 @@
 # 10 проектная работа
-## Проект по темам Git и «командная строка»
+## Проект по теме Git и Webpack
 ### Версия 0.1.0
-#### https://github.com/artemgskv/project-10
+#### https://github.com/artemgskv/project11
